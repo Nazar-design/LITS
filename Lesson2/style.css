@@ -1,0 +1,45 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+   
+   }
+   td{
+       height:60px;
+       border: none;
+       align-items: center;
+   }
+.hider{
+   color: rgba(128, 128, 128, 0.666);
+   width: 100%;
+   } 
+ tr.hider td{
+   border-bottom: 2pt solid #2f2f2f5a;
+    } 
+.menu_item_grey{
+    background: rgba(128, 128, 128, 0.19);
+}
+tr.menu_item_grey td{
+    border-bottom: 1pt solid #2f2f2f5a;
+     }   
+ .menu_item{
+     
+ }   
+ tr.menu_item td{
+        border-bottom: 1pt solid #2f2f2f5a;
+         }   
+
+.fire{
+  color: chocolate;
+ }
+ .emblems{
+     padding-top: 5px;
+  height: 40px;
+  width: 40px;
+ }
+ .job_vacancy{
+     color: rgba(106, 220, 24, 0.836);
+     font-weight: bold;
+ }

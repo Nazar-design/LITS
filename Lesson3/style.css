@@ -1,0 +1,51 @@
+
+.caption{
+    font-size: 45px;
+    width: 100%;
+    text-align: center;
+    font-weight: 900;
+}
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.menu_item{
+    width: 25%;
+    border: 1px solid rgba(128, 128, 128, 0.524);
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+img{
+    width: 100%;
+    padding-bottom:10px;
+}
+a:hover{
+    opacity: 70%;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 900; 
+    letter-spacing: .03em;
+    transition: 3s ease;
+   
+}
+.small_title{
+    size: 11px;
+color: #ababab;
+border-right:1px solid #ababab63;
+padding-right: 7px;
+}
+.small_title_second{
+    size: 11px;
+    color: #ababab;
+    padding-left: 7px;
+    
+}
+.small_title_orange{
+    size: 11px;
+    color: rgba(255, 68, 0, 0.469);
+}
