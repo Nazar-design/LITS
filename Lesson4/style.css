@@ -227,6 +227,9 @@ background-color: #f1f1f1;
 .send_button{
     margin-bottom: 50px;
 }
+.down_button{
+    margin-bottom:50px;
+}
 .end{
     width: 100%;
     background-color: #f1f1f1;
